@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is a test title"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
