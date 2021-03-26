@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Siqi Miao (苗思奇)"
 title_separator          : "-"
+last_date                : "Mar 2021."        
 name                     : &name "Siqi Miao"
 description              : &description "This is a test description"
 url                      : https://siqi.plus # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
