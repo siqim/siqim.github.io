@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/.
+My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. It's also fine to simply call me Aki.
 
 Under constrcution...
