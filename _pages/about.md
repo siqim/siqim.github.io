@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first-year PhD student at Purdue University in the Department of Computer Science. I'm supervised by [Prof. Pan Li](https://sites.google.com/view/panli-purdue) and working on machiner learning with graphs. Currently, I'm working on graph neural networks and interpretable graph learning models.
+I'm a first-year PhD student at Purdue University in the Department of Computer Science. I'm working on machine learning with graphs under the supervision of [Prof. Pan Li](https://sites.google.com/view/panli-purdue). Currently, I'm working on graph neural networks and interpretable graph learning models.
 
 Under Construction...
 
