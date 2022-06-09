@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a first-year PhD student at [Purdue University](https://www.purdue.edu/) in the Department of Computer Science. I'm working on machine learning with graphs under the supervision of [Prof. Pan Li](https://sites.google.com/view/panli-purdue). I also work closely with [Prof. Miaoyuan Liu](https://mia.physics.purdue.edu/?_ga=2.103377984.1767497867.1654532514-144022576.1620484558). Before coming to Purdue, I worked at [Tencent](https://www.tencent.com/) Big Data Lab for a while after receiving my master's degree from [University of Illinois at Urbana-Champaign](https://illinois.edu/). Currently, I focus on graph neural networks and interpretable graph learning models.
 
-My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. It's also fine to call me Aki. My Chinese surname is 苗(miao), pronounced as 苗/mɪaʊ/. ~~Yes, it sounds like "meow", so I guess my ancestor was a cat.~~
+My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. It's also fine to call me Aki. My Chinese surname is 苗(miao), pronounced as 苗/mɪaʊ/. ~~Yes, it sounds like "meow", so I guess my ancestor was a cat 😸!~~
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
