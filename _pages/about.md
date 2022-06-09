@@ -41,7 +41,18 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. It's a
 </div>
 </div> -->
 
-- [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/abs/2201.12987), **Siqi Miao**, Miaoyuan Liu, Pan Li, **ICML 2022** ([codes](https://github.com/Graph-COM/GSAT))
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/GSAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/abs/2201.12987)
+
+**Siqi Miao**, Miaoyuan Liu, Pan Li, **ICML 2022**
+
+<a href="https://github.com/Graph-COM/GSAT"><img src="https://img.shields.io/github/stars/Graph-COM/GSAT?style=social&label=Code+Stars" alt=""></a>
+
+
+<!-- - [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/abs/2201.12987), **Siqi Miao**, Miaoyuan Liu, Pan Li, **ICML 2022** ([codes](https://github.com/Graph-COM/GSAT)) -->
 
 # 🎖 Honors and Awards
 - *2020.01* Tencent Outstanding Employee
