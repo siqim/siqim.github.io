@@ -56,10 +56,10 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. It's a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/GSAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size="4"> Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism</font> \\
+**Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism** \\
 **Siqi Miao**, Miaoyuan Liu, Pan Li, **ICML 2022**
 
-<a href="https://arxiv.org/abs/2201.12987"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt=""></a>
+<a href="https://arxiv.org/abs/2201.12987"><img src="https://img.shields.io/badge/-Paper-ffd3da?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48cGF0aCBkPSJNNjIzLjEgMTM2LjlsLTI4Mi43LTEwMS4yYy0xMy43My00LjkxLTI4LjctNC45MS00Mi40MyAwTDE2LjA1IDEzNi45QzYuNDM4IDE0MC40IDAgMTQ5LjYgMCAxNjBzNi40MzggMTkuNjUgMTYuMDUgMjMuMDlMNzYuMDcgMjA0LjZjLTExLjg5IDE1LjgtMjAuMjYgMzQuMTYtMjQuNTUgNTMuOTVDNDAuMDUgMjYzLjQgMzIgMjc0LjggMzIgMjg4YzAgOS45NTMgNC44MTQgMTguNDkgMTEuOTQgMjQuMzZsLTI0LjgzIDE0OUMxNy40OCA0NzEuMSAyNSA0ODAgMzQuODkgNDgwSDkzLjExYzkuODg3IDAgMTcuNDEtOC44NzkgMTUuNzgtMTguNjNsLTI0LjgzLTE0OUM5MS4xOSAzMDYuNSA5NiAyOTcuMSA5NiAyODhjMC0xMC4yOS01LjE3NC0xOS4wMy0xMi43Mi0yNC44OWM0LjI1Mi0xNy43NiAxMi44OC0zMy44MiAyNC45NC00Ny4wM2wxOTAuNiA2OC4yM2MxMy43MyA0LjkxIDI4LjcgNC45MSA0Mi40MyAwbDI4Mi43LTEwMS4yQzYzMy42IDE3OS42IDY0MCAxNzAuNCA2NDAgMTYwUzYzMy42IDE0MC40IDYyMy4xIDEzNi45ek0zNTEuMSAzMTQuNEMzNDEuNyAzMTguMSAzMzAuOSAzMjAgMzIwIDMyMGMtMTAuOTIgMC0yMS42OS0xLjg2Ny0zMi01LjU1NUwxNDIuOCAyNjIuNUwxMjggNDA1LjNDMTI4IDQ0Ni42IDIxMy4xIDQ4MCAzMjAgNDgwYzEwNS4xIDAgMTkyLTMzLjQgMTkyLTc0LjY3bC0xNC43OC0xNDIuOUwzNTEuMSAzMTQuNHoiLz48L3N2Zz4=" alt=""></a>
 <a href="https://github.com/Graph-COM/GSAT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt=""></a>
 
 </div>
