@@ -59,7 +59,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. It's a
 **Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism** \\
 **Siqi Miao**, Miaoyuan Liu, Pan Li, **ICML 2022**
 
-<a href="https://arxiv.org/abs/2201.12987"><img src="https://img.shields.io/badge/-Paper-grey?logo=googlescholar&logoColor=white" alt=""></a>
+<a href="https://arxiv.org/abs/2201.12987"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt=""></a>
 <a href="https://github.com/Graph-COM/GSAT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt=""></a>
 
 </div>
