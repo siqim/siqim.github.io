@@ -65,9 +65,8 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. It's a
 </div>
 
 
-
-
-
+<!-- https://img.shields.io/badge/Video-grey?style=plastic&logo=airplayvideo&logoColor=white -->
+<!-- https://img.shields.io/badge/Slides-grey?&logo=GoogleSheets&logoColor=white -->
 
 
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Siqi Miao (苗思奇)"
-description              : "PhD Student@Purdue CS"
+description              : "PhD Student"
 repository               : "siqim/siqim.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Siqi Miao (苗思奇)"
   avatar           : "images/android-chrome-512x512.png"
   bio              :
-  location         : "West Lafayette, USA"
+  location         : "Purdue University"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=bVF_CzUAAAAJ&hl=en"
