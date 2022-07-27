@@ -25,7 +25,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. It's a
 
 # 🔥 News
 - *2022.07*: Awarded free registration from ICML and graduate travel grant from Purdue college of science! Thanks!
-- *2022.05*: One paper got accepted by ICML 2022!
+- *2022.05*: One paper got accepted to ICML 2022!
 
 # 📝 Publications
 
