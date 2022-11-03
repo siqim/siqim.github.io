@@ -26,9 +26,9 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 # 🔥 News
 - *2022.11*: Our latest paper on model interpretability ([LRI](https://arxiv.org/abs/2210.16966)) will show up at NeurIPS 2022 [AI for Science](https://ai4sciencecommunity.github.io/neurips22.html) Workshop!
 - *2022.10*: Gave two lectures at [CS593-CLG](https://docs.google.com/presentation/d/1jkf6RDLE9_FQQMqiQ1-b0PZjZJbWqRqI-Zn7wQh8pHQ/edit#slide=id.g15e3f128fa5_0_77)([code](https://colab.research.google.com/drive/1At_gCWaiMNyh5bVbXNjNkS0XL2vTFyyf?usp=sharing)) and [Phys570-AI](https://docs.google.com/presentation/d/1WMN81yvPnoYisn9UF1jKw_nXGlYSvyyA/edit#slide=id.p1)([code](https://colab.research.google.com/drive/1gXj2ScYmTzl2BDQ-OCVqRE5Ik-k66C-R?usp=sharing)).
-- *2022.07*: Gave a talk at [FastML](https://fastmachinelearning.org/) and [AITime](http://www.aitime.cn/) on our ICML 2022 paper [GSAT](https://arxiv.org/abs/2201.12987)([slides](https://icml.cc/media/icml-2022/Slides/17430.pdf)).
-- *2022.07*: Awarded free registration from ICML and graduate travel grant from Purdue college of science! Thanks!
-- *2022.05*: One paper got accepted to ICML 2022!
+- *2022.07*: Gave two talks at [FastML](https://fastmachinelearning.org/) and [AITime](http://www.aitime.cn/) on our ICML 2022 paper [GSAT](https://arxiv.org/abs/2201.12987)([slides](https://icml.cc/media/icml-2022/Slides/17430.pdf)).
+- *2022.07*: Awarded free registration and graduate travel grant for ICML! Thanks!
+- *2022.05*: One paper accepted to ICML 2022!
 
 # 📝 Publications
 
@@ -60,7 +60,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Geometric Deep Learning via Learnable Randomness Injection](https://arxiv.org/abs/2210.16966) \\
-**Siqi Miao**, Yunan Luo, Mia Liu, Pan Li. **NeurIPS 2022 Workshop** ([AI for Science](https://ai4sciencecommunity.github.io/neurips22.html)) \\
+**Siqi Miao**, Yunan Luo, Mia Liu, Pan Li. **NeurIPS 2022 [AI for Science](https://ai4sciencecommunity.github.io/neurips22.html) Workshop** (nonarchival) \\
 <a href="https://arxiv.org/abs/2210.16966"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/LRI"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <!-- <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> -->
