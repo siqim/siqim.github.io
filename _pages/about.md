@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first-year PhD student at [Purdue University](https://www.purdue.edu/) in the Department of Computer Science. I'm working on machine learning with graphs under the supervision of [Prof. Pan Li](https://sites.google.com/view/panli-purdue). I also work closely with [Prof. Miaoyuan Liu](https://mia.physics.purdue.edu/?_ga=2.103377984.1767497867.1654532514-144022576.1620484558). Before coming to Purdue, I worked at [Tencent](https://www.tencent.com/) Big Data Lab for a while after receiving my master's degree from the [University of Illinois at Urbana-Champaign](https://illinois.edu/). Currently, I focus on graph neural networks and interpretable graph learning models.
+I'm a second year PhD student at [Purdue University](https://www.purdue.edu/) in the Department of Computer Science. I'm working on machine learning on graphs under the supervision of [Prof. Pan Li](https://sites.google.com/view/panli-purdue). I also work closely with [Prof. Mia Liu](https://mia.physics.purdue.edu/?_ga=2.103377984.1767497867.1654532514-144022576.1620484558). Before coming to Purdue, I worked at [Tencent](https://www.tencent.com/) Big Data Lab for a while after receiving my master's degree from the [University of Illinois at Urbana-Champaign](https://illinois.edu/). Currently, I focus on graph neural networks and interpretable graph learning models.
 
-My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. It's also fine to call me Aki. My Chinese surname is 苗(miao), pronounced as 苗/mɪaʊ/. ~~Yes, it sounds like "meow" 😸!~~
+My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chinese surname is 苗(miao), pronounced as 苗/mɪaʊ/. It's also fine to call me Aki.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2022.11*: Our latest paper on model interpretability ([LRI](https://arxiv.org/abs/2210.16966)) will show up at NeurIPS 2022 AI for Science Workshop!
+- *2022.10*: Gave two lectures at [CS593-CLG](https://docs.google.com/presentation/d/1jkf6RDLE9_FQQMqiQ1-b0PZjZJbWqRqI-Zn7wQh8pHQ/edit#slide=id.g15e3f128fa5_0_77)([code](https://colab.research.google.com/drive/1At_gCWaiMNyh5bVbXNjNkS0XL2vTFyyf?usp=sharing)) and [Phys570-AI](https://docs.google.com/presentation/d/1WMN81yvPnoYisn9UF1jKw_nXGlYSvyyA/edit#slide=id.p1)([code](https://colab.research.google.com/drive/1gXj2ScYmTzl2BDQ-OCVqRE5Ik-k66C-R?usp=sharing)).
+- *2022.07*: Gave a talk at [FastML](https://fastmachinelearning.org/) and [AITime](http://www.aitime.cn/) on our ICML 2022 paper [GSAT](https://arxiv.org/abs/2201.12987)([slides](https://icml.cc/media/icml-2022/Slides/17430.pdf)).
 - *2022.07*: Awarded free registration from ICML and graduate travel grant from Purdue college of science! Thanks!
 - *2022.05*: One paper got accepted to ICML 2022!
 
@@ -53,6 +56,19 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. It's a
 </div>
 </div> -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LRI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpretable Geometric Deep Learning via Learnable Randomness Injection](https://arxiv.org/abs/2210.16966) \\
+**Siqi Miao**, Yunan Luo, Mia Liu, Pan Li. **NeurIPS 2022 Workshop** ([AI for Science](https://ai4sciencecommunity.github.io/neurips22.html)) \\
+<a href="https://arxiv.org/abs/2210.16966"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/LRI"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<!-- <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> -->
+<!-- <a href="https://proceedings.mlr.press/v162/miao22a.html"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2722&color=blue"> </a> -->
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/GSAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,8 +85,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. It's a
 <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a>
 <a href="https://proceedings.mlr.press/v162/miao22a.html"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2722&color=blue"> </a>
 
-**Blog ([English](https://towardsdatascience.com/graph-machine-learning-icml-2022-252f39865c70#be75:~:text=and%20inductive%20settings.-,%E2%9E%A1%EF%B8%8F%20Miao%20et%20al,-take%20another%20perspective) - [中文](https://mp.weixin.qq.com/s/aP-XBqFLV0x8h9rtOKU_yg))** |
-**[Video](https://icml.cc/virtual/2022/spotlight/17430)** |
+**Blogs ([English](https://towardsdatascience.com/graph-machine-learning-icml-2022-252f39865c70#be75:~:text=and%20inductive%20settings.-,%E2%9E%A1%EF%B8%8F%20Miao%20et%20al,-take%20another%20perspective) - [中文](https://mp.weixin.qq.com/s/aP-XBqFLV0x8h9rtOKU_yg))** |
 **[Slides](https://icml.cc/media/icml-2022/Slides/17430.pdf)** |
 **[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/a8acc28734d4fe90ea24353d901ae678.png)**
 
@@ -101,5 +116,5 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. It's a
 - *2019.07 - 2020.05*, Tencent, Machine Learning Engineer, Guangzhou, China
 - *2018.05 - 2018.08*, Tencent, Machine Learning Intern, Guangzhou, China
 
-
+<script type="text/javascript" src="assets/js/LastUpdateDate.js"></script>
 <a href='https://clustrmaps.com/site/1bgz9'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=a6iAb7ez3Wz6FmyA2Dk7WnttgXxsBmp_weXKt76zhWU&co=2d78ad&ct=ffffff' style="display: none;"/></a>
