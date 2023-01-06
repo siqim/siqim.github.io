@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a second year PhD student at [Purdue University](https://www.purdue.edu/) in the Department of Computer Science. I'm working on machine learning on graphs under the supervision of [Prof. Pan Li](https://sites.google.com/view/panli-purdue) and [Prof. Mia Liu](https://mia.physics.purdue.edu/?_ga=2.103377984.1767497867.1654532514-144022576.1620484558). Before coming to Purdue, I worked at [Tencent](https://www.tencent.com/) Big Data Lab for a while after receiving my master's degree from the [University of Illinois at Urbana-Champaign](https://illinois.edu/). Currently, I focus on 
+I am a second-year PhD student in the Machine Leraning program at [Georgia Tech](https://www.gatech.edu/)'s School of Electrical and Computer Engineering. I'm working on machine learning on graphs under the supervision of [Prof. Pan Li](https://sites.google.com/view/panli-purdue) and [Prof. Mia Liu](https://mia.physics.purdue.edu/?_ga=2.103377984.1767497867.1654532514-144022576.1620484558). Before coming to Georgia Tech, I was a PhD student at [Purdue University](https://www.purdue.edu/) in the Department of Computer Science. Prior to that, I worked at [Tencent](https://www.tencent.com/) Big Data Lab for a while after receiving my master's degree from the [University of Illinois at Urbana-Champaign](https://illinois.edu/). Currently, I focus on 
 geometric & graph deep learning, epsecially on interpretable learning methods to advance scientific discovery.
 
 My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chinese surname is 苗(miao), pronounced as 苗/mɪaʊ/. It's also fine to call me Aki.
@@ -104,7 +104,17 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <!-- - [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/abs/2201.12987), **Siqi Miao**, Miaoyuan Liu, Pan Li, **ICML 2022** ([codes](https://github.com/Graph-COM/GSAT)) -->
 
 # 🎖 Honors and Awards
+- *2022.07* ICML’22 Participation Grant 
+- *2022.07* Purdue Graduate Travel Grant 
+- *2020.03* Tencent Innovation Award
 - *2020.01* Tencent Outstanding Employee (Top 10%)
+
+# 💬 Invited Talks
+- *2022.11*, Inter-Experimental LHC Machine Learning Working Group, CERN
+- *2022.10*, Department of Physics, Purdue University
+- *2022.08*, AI Time
+- *2022.07*, Fast Machine Learning Lab
+
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
@@ -115,7 +125,8 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experience
-- *2021.08 - Present*, Purdue University, Research Assistant, West Lafayette, USA
+- *2023.01 - Present*, Georgia Tech, Research Assistant, Atlanta, USA
+- *2021.08 - 2022.12*, Purdue University, Research Assistant, West Lafayette, USA
 - *2019.07 - 2020.05*, Tencent, Machine Learning Engineer, Guangzhou, China
 - *2018.05 - 2018.08*, Tencent, Machine Learning Intern, Guangzhou, China
 
