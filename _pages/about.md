@@ -25,7 +25,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-
+- *2023.03*: Received ICLR'23 Travel Award! Thanks ICLR and see you in Kigali in the coming May!
 - *2023.01*: Our paper [LRI](https://openreview.net/forum?id=6u7mf9s2A9) is accepted to ICLR 2023 and NeurIPS 2022 AI4Science!
 
 <details>
@@ -119,6 +119,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <!-- - [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/abs/2201.12987), **Siqi Miao**, Miaoyuan Liu, Pan Li, **ICML 2022** ([codes](https://github.com/Graph-COM/GSAT)) -->
 
 # 🎖 Honors and Awards
+- *2023.03* ICLR’23 Travel Award
 - *2022.07* ICML’22 Participation Grant 
 - *2022.07* Purdue Graduate Travel Grant 
 - *2020.03* Tencent Innovation Award
