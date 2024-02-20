@@ -21,5 +21,8 @@ main:
   - title: "Experience"
     url: "/#-experience"
 
+  - title: "Academic Services"
+    url: "/#-academic-services"
+
   - title: "Misc"
     url: "/#-misc"

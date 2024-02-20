@@ -17,17 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student in the Machine Learning program at [Georgia Tech](https://www.gatech.edu/)'s School of Electrical and Computer Engineering. I'm working on machine learning on graphs under the supervision of [Prof. Pan Li](https://sites.google.com/view/panli-purdue) and [Prof. Mia Liu](https://mia.physics.purdue.edu/?_ga=2.103377984.1767497867.1654532514-144022576.1620484558). Before coming to Georgia Tech, I was a PhD student at [Purdue University](https://www.purdue.edu/) in the Department of Computer Science. Prior to that, I worked at [Tencent](https://www.tencent.com/) Big Data Lab for a while after receiving my master's degree from the [University of Illinois at Urbana-Champaign](https://illinois.edu/). Currently, I focus on 
-geometric & graph deep learning, epsecially on interpretable learning methods to advance scientific discovery.
+I am a third-year PhD student in the Machine Learning program at [Georgia Tech](https://www.gatech.edu/)'s School of Electrical and Computer Engineering. I'm working on machine learning on graphs under the supervision of [Prof. Pan Li](https://sites.google.com/view/panli-purdue) and [Prof. Mia Liu](https://mia.physics.purdue.edu/?_ga=2.103377984.1767497867.1654532514-144022576.1620484558). Before coming to Georgia Tech, I was a PhD student at [Purdue University](https://www.purdue.edu/) in the Department of Computer Science. Prior to that, I worked at [Tencent](https://www.tencent.com/) Big Data Lab for a while after receiving my master's degree from the [University of Illinois at Urbana-Champaign](https://illinois.edu/). Currently, I focus on
+geometric & graph deep learning, epsecially on interpretable, generalizable, and scalable learning methods to advance scientific discovery.
 
 My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chinese surname is 苗(miao), pronounced as 苗/mɪaʊ/. It's also fine to call me Aki.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2023.03*: Received ICLR'23 Travel Award! Thanks ICLR and see you in Kigali in the coming May!
-- *2023.01*: Our paper [LRI](https://openreview.net/forum?id=6u7mf9s2A9) is accepted to ICLR 2023 and NeurIPS 2022 AI4Science!
 
+- *2024.02*: Our paper on efficient point transformer is released on [arXiv]().
+
+<details>
+  <summary>Old news in 2023</summary>
+  <div markdown="1">
+  - *2023.10*: Our paper on benchmarking OOD performance in geometric deep learning is released on [arXiv](https://arxiv.org/abs/2310.08677).
+  - *2023.07*: One paper accepted to CTD'23.
+  - *2023.03*: Received ICLR'23 Travel Award! Thanks ICLR and see you in Kigali in the coming May!
+  - *2023.01*: Our paper [LRI](https://openreview.net/forum?id=6u7mf9s2A9) is accepted to ICLR 2023 and NeurIPS 2022 AI4Science!
+  </div>
+
+</details>
 <details>
   <summary>Old news in 2022</summary>
 
@@ -48,6 +58,18 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/HEPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics]() \\
+***Siqi Miao***, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **Preprint**\\
+<a href=""><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/HEPT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+
+</div>
+</div>
+
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,7 +99,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Geometric Deep Learning via Learnable Randomness Injection](https://openreview.net/forum?id=6u7mf9s2A9) \\
-**Siqi Miao**, Yunan Luo, Mia Liu, Pan Li. **ICLR 2023** and **NeurIPS 2022 AI4Science**\\
+***Siqi Miao***, Yunan Luo, Mia Liu, Pan Li. **ICLR 2023**\\
 <a href="https://arxiv.org/abs/2210.16966"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/LRI"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <a href="https://openreview.net/forum?id=6u7mf9s2A9"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR%2723&color=blue"> </a>
@@ -92,7 +114,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box-text' markdown="1">
 
 [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/abs/2201.12987) \\
-**Siqi Miao**, Mia Liu, Pan Li. **ICML 2022** \\
+***Siqi Miao***, Mia Liu, Pan Li. **ICML 2022** \\
 <!-- <a href="https://arxiv.org/abs/2201.12987"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/GSAT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://img.shields.io/badge/-Colab-grey?logo=googlecolab&logoColor=white" alt="Colab"></a>
@@ -112,6 +134,11 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 </div>
 </div>
 
+- <a href="https://arxiv.org/abs/2312.03823"><img src="https://img.shields.io/badge/-CTD 2023-grey?logo=&logoColor=white" alt="Paper"></a> [High Pileup Particle Tracking with Object Condensation](https://arxiv.org/abs/2312.03823), Kilian Lieret, Gage DeZoort, Devdoot Chatterjee, Jian Park, ***Siqi Miao***, Pan Li.
+
+- <a href="https://arxiv.org/abs/2310.08677"><img src="https://img.shields.io/badge/-arXiv-grey?logo=&logoColor=white" alt="Paper"></a> [GDL-DS: A Benchmark for Geometric Deep Learning under Distribution Shifts](https://arxiv.org/abs/2310.08677), Deyu Zou, Shikun Liu, ***Siqi Miao***, Victor Fung, Shiyu Chang, Pan Li.
+
+
 
 <!-- https://img.shields.io/badge/Video-grey?style=plastic&logo=airplayvideo&logoColor=white -->
 <!-- https://img.shields.io/badge/Slides-grey?&logo=GoogleSheets&logoColor=white -->
@@ -122,8 +149,8 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 # 🎖 Honors and Awards
 - *2023.03* ICLR’23 Travel Award
-- *2022.07* ICML’22 Participation Grant 
-- *2022.07* Purdue Graduate Travel Grant 
+- *2022.07* ICML’22 Travel Award
+- *2022.07* Purdue Graduate Travel Grant
 - *2020.03* Tencent Innovation Award
 - *2020.01* Tencent Outstanding Employee (Top 10%)
 
@@ -151,9 +178,12 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <script type="text/javascript" src="assets/js/LastUpdateDate.js"></script>
 <a href='https://clustrmaps.com/site/1bgz9'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=a6iAb7ez3Wz6FmyA2Dk7WnttgXxsBmp_weXKt76zhWU&co=2d78ad&ct=ffffff' style="display: none;"/></a>
 
+# 📖 Academic Services
+- Conference Reviewer: ICML'24, ICLR'24, NeurIPS'23, LOG'22-23
+- Journal Reviewer: IEEE Transactions on Signal Processing
 
 # 🎮 Misc
 - *The Legend of Zelda: Breath of the Wild* and *The Witcher 3: Wild Hunt* are the best games ever. *Genshin Impact* is also awesome!
 - I'm a big fan of *Lego Technic*. I once combined them with RC cars to build a few cool Lego cars that could drift and climb!
-- I have ~4k followers on [Zhihu](https://www.zhihu.com/people/miao-si-qi), a Quora-like platform in China.
+- I have 4k+ followers on [Zhihu](https://www.zhihu.com/people/miao-si-qi), a Quora-like platform in China.
 - I built my own PC and home automation system. I also liked to play with Jetson TX2 and Raspberry Pi.
