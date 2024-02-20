@@ -62,7 +62,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/HEPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics]() \\
+[LSH-Based Efficient Point Transformer with Applications in High-Energy Physics]() \\
 ***Siqi Miao***, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **Preprint**\\
 <a href=""><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/HEPT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
