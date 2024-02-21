@@ -26,7 +26,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 # 🔥 News
 
-- *2024.02*: Our paper on efficient point transformer is released on [arXiv]().
+- *2024.02*: Our paper on efficient point transformer is released on [arXiv](https://arxiv.org/abs/2402.12535).
 
 <details>
   <summary>Old news in 2023</summary>
@@ -62,9 +62,9 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/HEPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LSH-Based Efficient Point Transformer with Applications in High-Energy Physics]() \\
+[LSH-Based Efficient Point Transformer with Applications in High-Energy Physics](https://arxiv.org/abs/2402.12535) \\
 ***Siqi Miao***, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **Preprint**\\
-<a href=""><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://arxiv.org/abs/2402.12535"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/HEPT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 
 </div>
