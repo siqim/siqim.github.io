@@ -136,7 +136,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 - <a href="https://arxiv.org/abs/2312.03823"><img src="https://img.shields.io/badge/-CTD 2023-grey?logo=&logoColor=white" alt="Paper"></a> [High Pileup Particle Tracking with Object Condensation](https://arxiv.org/abs/2312.03823), Kilian Lieret, Gage DeZoort, Devdoot Chatterjee, Jian Park, ***Siqi Miao***, Pan Li.
 
-- <a href="https://arxiv.org/abs/2310.08677"><img src="https://img.shields.io/badge/-Preprint-grey?logo=&logoColor=white" alt="Paper"></a> [GDL-DS: A Benchmark for Geometric Deep Learning under Distribution Shifts](https://arxiv.org/abs/2310.08677), Deyu Zou, Shikun Liu, ***Siqi Miao***, Victor Fung, Shiyu Chang, Pan Li.
+- <a href="https://arxiv.org/abs/2310.08677"><img src="https://img.shields.io/badge/-Preprint-grey?logo=&logoColor=white" alt="Paper"></a> [GDL-DS: A Benchmark for Geometric Deep Learning under Distribution Shifts](https://arxiv.org/abs/2310.08677), Deyu Zou\*, Shikun Liu\*, ***Siqi Miao***, Victor Fung, Shiyu Chang, Pan Li.
 
 
 
