@@ -63,7 +63,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box-text' markdown="1">
 
 [LSH-Based Efficient Point Transformer with Applications in High-Energy Physics](https://arxiv.org/abs/2402.12535) \\
-<u>Siqi Miao</u>, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **Preprint**\\
+<u><strong>Siqi Miao</strong></u>, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **Preprint**\\
 <a href="https://arxiv.org/abs/2402.12535"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/HEPT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 
@@ -99,7 +99,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Geometric Deep Learning via Learnable Randomness Injection](https://openreview.net/forum?id=6u7mf9s2A9) \\
-<u>Siqi Miao</u>, Yunan Luo, Mia Liu, Pan Li. **ICLR 2023**\\
+<u><strong>Siqi Miao</strong></u>, Yunan Luo, Mia Liu, Pan Li. **ICLR 2023**\\
 <a href="https://arxiv.org/abs/2210.16966"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/LRI"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <a href="https://openreview.net/forum?id=6u7mf9s2A9"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR%2723&color=blue"> </a>
@@ -114,7 +114,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box-text' markdown="1">
 
 [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/abs/2201.12987) \\
-<u>Siqi Miao</u>, Mia Liu, Pan Li. **ICML 2022** \\
+<u><strong>Siqi Miao</strong></u>, Mia Liu, Pan Li. **ICML 2022** \\
 <!-- <a href="https://arxiv.org/abs/2201.12987"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/GSAT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://img.shields.io/badge/-Colab-grey?logo=googlecolab&logoColor=white" alt="Colab"></a>
@@ -134,9 +134,9 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 </div>
 </div>
 
-- <a href="https://arxiv.org/abs/2312.03823"><img src="https://img.shields.io/badge/-CTD 2023-grey?logo=&logoColor=white" alt="Paper"></a> [High Pileup Particle Tracking with Object Condensation](https://arxiv.org/abs/2312.03823), Kilian Lieret, Gage DeZoort, Devdoot Chatterjee, Jian Park, <u>Siqi Miao</u>, Pan Li.
+- <a href="https://arxiv.org/abs/2312.03823"><img src="https://img.shields.io/badge/-CTD 2023-grey?logo=&logoColor=white" alt="Paper"></a> [High Pileup Particle Tracking with Object Condensation](https://arxiv.org/abs/2312.03823), Kilian Lieret, Gage DeZoort, Devdoot Chatterjee, Jian Park, <u><strong>Siqi Miao</strong></u>, Pan Li.
 
-- <a href="https://arxiv.org/abs/2310.08677"><img src="https://img.shields.io/badge/-Preprint-grey?logo=&logoColor=white" alt="Paper"></a> [GDL-DS: A Benchmark for Geometric Deep Learning under Distribution Shifts](https://arxiv.org/abs/2310.08677), Deyu Zou\*, Shikun Liu\*, <u>Siqi Miao</u>, Victor Fung, Shiyu Chang, Pan Li.
+- <a href="https://arxiv.org/abs/2310.08677"><img src="https://img.shields.io/badge/-Preprint-grey?logo=&logoColor=white" alt="Paper"></a> [GDL-DS: A Benchmark for Geometric Deep Learning under Distribution Shifts](https://arxiv.org/abs/2310.08677), Deyu Zou\*, Shikun Liu\*, <u><strong>Siqi Miao</strong></u>, Victor Fung, Shiyu Chang, Pan Li.
 
 
 
