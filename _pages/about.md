@@ -179,7 +179,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <a href='https://clustrmaps.com/site/1bgz9'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=a6iAb7ez3Wz6FmyA2Dk7WnttgXxsBmp_weXKt76zhWU&co=2d78ad&ct=ffffff' style="display: none;"/></a>
 
 # 📖 Academic Services
-- Conference Reviewer: ICML'24, ICLR'24, NeurIPS'23, LOG'22-23
+- Conference Reviewer: ICML, ICLR, NeurIPS, LOG
 - Journal Reviewer: IEEE Transactions on Signal Processing
 
 # 🎮 Misc
