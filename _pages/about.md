@@ -26,6 +26,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 # 🔥 News
 
+- *2024.05*: Our paper [HEPT](https://arxiv.org/abs/2402.12535) is accepted to ICML 2024 and recommended for oral presentation! See you in Vienna!
 - *2024.02*: Our paper on efficient point transformer is released on [arXiv](https://arxiv.org/abs/2402.12535).
 
 <details>
@@ -59,13 +60,14 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/HEPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/HEPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LSH-Based Efficient Point Transformer with Applications in High-Energy Physics](https://arxiv.org/abs/2402.12535) \\
-<u><strong>Siqi Miao</strong></u>, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **Preprint**\\
+<u><strong>Siqi Miao</strong></u>, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **ICML 2024**\\
 <a href="https://arxiv.org/abs/2402.12535"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/HEPT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<a href="https://arxiv.org/abs/2402.12535"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2724&color=blue"></a>
 
 </div>
 </div>
