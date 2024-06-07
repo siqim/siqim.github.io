@@ -65,7 +65,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box-text' markdown="1">
 
 [LSH-Based Efficient Point Transformer with Applications in High-Energy Physics](https://arxiv.org/abs/2402.12535) \\
-<u><strong>Siqi Miao</strong></u>, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **ICML 2024 <span style="color:red">(Oral)</span>.**\\
+<u><strong>Siqi Miao</strong></u>, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **ICML 2024 <span style="color:red">(Oral)</span>**\\
 <a href="https://arxiv.org/abs/2402.12535"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/HEPT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <a href="https://arxiv.org/abs/2402.12535"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2724&color=blue"></a>
