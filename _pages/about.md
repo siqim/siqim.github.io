@@ -26,8 +26,9 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 # 🔥 News
 
-- *2024.05*: Our paper [HEPT](https://arxiv.org/abs/2402.12535) is accepted to ICML 2024 and recommended for oral presentation! See you in Vienna!
-- *2024.02*: Our paper on efficient point transformer is released on [arXiv](https://arxiv.org/abs/2402.12535).
+- *2024.05*: Our paper [HEPT](https://arxiv.org/abs/2402.12535) is accepted to ICML 2024 and selected for oral presentation! See you in Vienna!
+- *2024.03*: Gave a talk at [a3d3](https://a3d3.ai/) institute HEP group on [HEPT](https://arxiv.org/abs/2402.12535).
+- *2024.02*: Our paper on efficient point transformer (HEPT) is released on [arXiv](https://arxiv.org/abs/2402.12535).
 
 <details>
   <summary>Old news in 2023</summary>
@@ -64,7 +65,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box-text' markdown="1">
 
 [LSH-Based Efficient Point Transformer with Applications in High-Energy Physics](https://arxiv.org/abs/2402.12535) \\
-<u><strong>Siqi Miao</strong></u>, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **ICML 2024**\\
+<u><strong>Siqi Miao</strong></u>, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **ICML 2024 <span style="color:red">(Oral)</span>.**\\
 <a href="https://arxiv.org/abs/2402.12535"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/HEPT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <a href="https://arxiv.org/abs/2402.12535"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2724&color=blue"></a>
@@ -157,6 +158,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 - *2020.01* Tencent Outstanding Employee (Top 10%)
 
 # 💬 Invited Talks
+- *2024.03*, a3d3 Institute HEP Group
 - *2022.11*, Inter-Experimental LHC Machine Learning Working Group, CERN
 - *2022.10*, Department of Physics, Purdue University
 - *2022.08*, AI Time
@@ -187,5 +189,5 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 # 🎮 Misc
 - *The Legend of Zelda: Breath of the Wild* and *The Witcher 3: Wild Hunt* are the best games ever. *Genshin Impact* is also awesome!
 - I'm a big fan of *Lego Technic*. I once combined them with RC cars to build a few cool Lego cars that could drift and climb!
-- I have 4k+ followers on [Zhihu](https://www.zhihu.com/people/miao-si-qi), a Quora-like platform in China.
+- I have 4.5k+ followers on [Zhihu](https://www.zhihu.com/people/miao-si-qi), a Quora-like platform in China.
 - I built my own PC and home automation system. I also liked to play with Jetson TX2 and Raspberry Pi.
