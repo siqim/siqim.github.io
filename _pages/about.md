@@ -26,6 +26,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 # 🔥 News
 
+- *2024.06*: Our paper on graph state space model (GSSC) is released on [arXiv](https://arxiv.org/abs/2406.05815).
 - *2024.05*: Our paper [HEPT](https://arxiv.org/abs/2402.12535) is accepted to ICML 2024 and selected for oral presentation! See you in Vienna!
 - *2024.03*: Gave a talk at [a3d3](https://a3d3.ai/) institute HEP group on [HEPT](https://arxiv.org/abs/2402.12535).
 - *2024.02*: Our paper on efficient point transformer (HEPT) is released on [arXiv](https://arxiv.org/abs/2402.12535).
@@ -65,13 +66,19 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box-text' markdown="1">
 
 [LSH-Based Efficient Point Transformer with Applications in High-Energy Physics](https://arxiv.org/abs/2402.12535) \\
-<u><strong>Siqi Miao</strong></u>, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **ICML 2024 <span style="color:red">(Oral)</span>**\\
+<u><strong>Siqi Miao</strong></u>, Zhiyuan Lu, Mia Liu, Javier Duarte, Pan Li. **ICML 2024 <span style="color:red">(Oral, Top 1.5%)</span>**\\
 <a href="https://arxiv.org/abs/2402.12535"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/HEPT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <a href="https://arxiv.org/abs/2402.12535"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2724&color=blue"></a>
 
 </div>
 </div>
+
+
+
+
+
+
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -136,6 +143,23 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 </div>
 </div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/GSSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[What Can We Learn from State Space Models for Machine Learning on Graphs?](https://arxiv.org/pdf/2406.05815) \\
+Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint**\\
+(\*Equal contribution, listed in alphabetical order)\\
+<a href="https://arxiv.org/pdf/2406.05815"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/GSSC"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+
+</div>
+</div>
+
+
+
 
 - <a href="https://arxiv.org/abs/2312.03823"><img src="https://img.shields.io/badge/-CTD 2023-grey?logo=&logoColor=white" alt="Paper"></a> [High Pileup Particle Tracking with Object Condensation](https://arxiv.org/abs/2312.03823), Kilian Lieret, Gage DeZoort, Devdoot Chatterjee, Jian Park, <u><strong>Siqi Miao</strong></u>, Pan Li.
 
