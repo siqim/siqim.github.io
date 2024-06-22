@@ -17,10 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year PhD student in the Machine Learning program at [Georgia Tech](https://www.gatech.edu/)'s School of Electrical and Computer Engineering. I'm working on machine learning on graphs under the supervision of [Prof. Pan Li](https://sites.google.com/view/panli-purdue). Before coming to Georgia Tech, I was a PhD student at [Purdue University](https://www.purdue.edu/) in the Department of Computer Science. Prior to that, I worked at [Tencent](https://www.tencent.com/) Big Data Lab for a while after receiving my master's degree from the [University of Illinois at Urbana-Champaign](https://illinois.edu/). Currently, I focus on
+I am a third-year PhD student in the Machine Learning program at [Georgia Tech](https://www.gatech.edu/)'s School of Electrical and Computer Engineering. I'm working on machine learning on graphs under the supervision of [Prof. Pan Li](https://sites.google.com/view/panli-purdue). Before coming to Georgia Tech, I was a PhD student at [Purdue University](https://www.purdue.edu/) in the Department of Computer Science. Prior to that, I worked at [Tencent](https://www.tencent.com/) Big Data Lab for a while after receiving my master's degree from the [University of Illinois Urbana-Champaign](https://illinois.edu/). Currently, I focus on
 geometric & graph deep learning, epsecially on interpretable, generalizable, and scalable learning methods to advance scientific discovery.
 
 My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chinese surname is 苗(miao), pronounced as 苗/mɪaʊ/. It's also fine to call me Aki.
+
+
+**<span style="color:red">I will be seeking internship opportunities for the summer of 2025. If you know of any exciting openings, please feel free to contact me!</span>**
+
+
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -28,7 +33,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 - *2024.06*: Our paper on graph state space model (GSSC) is released on [arXiv](https://arxiv.org/abs/2406.05815).
 - *2024.05*: Our paper [HEPT](https://arxiv.org/abs/2402.12535) is accepted to ICML 2024 and selected for oral presentation! See you in Vienna!
-- *2024.03*: Gave a talk at [a3d3](https://a3d3.ai/) institute HEP group on [HEPT](https://arxiv.org/abs/2402.12535).
+- *2024.03*: Gave a talk at [A3D3](https://a3d3.ai/) institute HEP group on [HEPT](https://arxiv.org/abs/2402.12535).
 - *2024.02*: Our paper on efficient point transformer (HEPT) is released on [arXiv](https://arxiv.org/abs/2402.12535).
 
 <details>
@@ -182,7 +187,7 @@ Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint**\\
 - *2020.01* Tencent Outstanding Employee (Top 10%)
 
 # 💬 Invited Talks
-- *2024.03*, a3d3 Institute HEP Group
+- *2024.03*, A3D3 Institute HEP Group
 - *2022.11*, Inter-Experimental LHC Machine Learning Working Group, CERN
 - *2022.10*, Department of Physics, Purdue University
 - *2022.08*, AI Time
@@ -207,7 +212,7 @@ Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint**\\
 <a href='https://clustrmaps.com/site/1bgz9'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=a6iAb7ez3Wz6FmyA2Dk7WnttgXxsBmp_weXKt76zhWU&co=2d78ad&ct=ffffff' style="display: none;"/></a>
 
 # 📖 Academic Services
-- Conference Reviewer: ICML, ICLR, NeurIPS, LOG
+- Conference Reviewer: ICML, ICLR, NeurIPS, LOG, WWW
 - Journal Reviewer: IEEE Transactions on Signal Processing
 
 # 🎮 Misc
