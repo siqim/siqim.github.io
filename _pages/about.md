@@ -30,7 +30,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-
+- *2024.07*: Our paper on explainable geometric deep learning is released on [arXiv](https://arxiv.org/abs/2407.00849).
 - *2024.06*: Our paper on graph state space model (GSSC) is released on [arXiv](https://arxiv.org/abs/2406.05815).
 - *2024.05*: Our paper [HEPT](https://arxiv.org/abs/2402.12535) is accepted to ICML 2024 and selected for oral presentation! See you in Vienna!
 - *2024.03*: Gave a talk at [A3D3](https://a3d3.ai/) institute HEP group on [HEPT](https://arxiv.org/abs/2402.12535).
@@ -151,11 +151,11 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/GSSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/GSSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [What Can We Learn from State Space Models for Machine Learning on Graphs?](https://arxiv.org/pdf/2406.05815) \\
-Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint**\\
+Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
 (\*Equal contribution, listed in alphabetical order)\\
 <a href="https://arxiv.org/pdf/2406.05815"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/GSSC"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
@@ -163,14 +163,13 @@ Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint**\\
 </div>
 </div>
 
+- <a href="https://arxiv.org/abs/2407.00849"><img src="https://img.shields.io/badge/-Preprint 2024-grey?logo=&logoColor=white" alt="Paper"></a> [Towards Understanding Sensitive and Decisive Patterns in Explainable AI: A Case Study of Model Interpretation in Geometric Deep Learning](https://arxiv.org/abs/2407.00849), Jiajun Zhu, <u><strong>Siqi Miao</strong></u>, Rex Ying, Pan Li.
 
 
+
+- <a href="https://arxiv.org/abs/2310.08677"><img src="https://img.shields.io/badge/-Preprint 2024-grey?logo=&logoColor=white" alt="Paper"></a> [GDL-DS: A Benchmark for Geometric Deep Learning under Distribution Shifts](https://arxiv.org/abs/2310.08677), Deyu Zou\*, Shikun Liu\*, <u><strong>Siqi Miao</strong></u>, Victor Fung, Shiyu Chang, Pan Li.
 
 - <a href="https://arxiv.org/abs/2312.03823"><img src="https://img.shields.io/badge/-CTD 2023-grey?logo=&logoColor=white" alt="Paper"></a> [High Pileup Particle Tracking with Object Condensation](https://arxiv.org/abs/2312.03823), Kilian Lieret, Gage DeZoort, Devdoot Chatterjee, Jian Park, <u><strong>Siqi Miao</strong></u>, Pan Li.
-
-- <a href="https://arxiv.org/abs/2310.08677"><img src="https://img.shields.io/badge/-Preprint-grey?logo=&logoColor=white" alt="Paper"></a> [GDL-DS: A Benchmark for Geometric Deep Learning under Distribution Shifts](https://arxiv.org/abs/2310.08677), Deyu Zou\*, Shikun Liu\*, <u><strong>Siqi Miao</strong></u>, Victor Fung, Shiyu Chang, Pan Li.
-
-
 
 <!-- https://img.shields.io/badge/Video-grey?style=plastic&logo=airplayvideo&logoColor=white -->
 <!-- https://img.shields.io/badge/Slides-grey?&logo=GoogleSheets&logoColor=white -->
