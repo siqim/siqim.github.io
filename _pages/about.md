@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year PhD student in the Machine Learning program at [Georgia Tech](https://www.gatech.edu/)'s School of Electrical and Computer Engineering. I'm working on machine learning on graphs under the supervision of [Prof. Pan Li](https://sites.google.com/view/panli-purdue). Before coming to Georgia Tech, I was a PhD student at [Purdue University](https://www.purdue.edu/) in the Department of Computer Science. Prior to that, I worked at [Tencent](https://www.tencent.com/) Big Data Lab for a while after receiving my master's degree from the [University of Illinois Urbana-Champaign](https://illinois.edu/). Currently, I focus on
+I am a fourth-year PhD student in the Machine Learning program at [Georgia Tech](https://www.gatech.edu/)'s School of Electrical and Computer Engineering. I'm working on machine learning on graphs under the supervision of [Prof. Pan Li](https://sites.google.com/view/panli-purdue). Before coming to Georgia Tech, I was a PhD student at [Purdue University](https://www.purdue.edu/) in the Department of Computer Science. Prior to that, I worked at [Tencent](https://www.tencent.com/) Big Data Lab for a while after receiving my master's degree from the [University of Illinois Urbana-Champaign](https://illinois.edu/). Currently, I focus on
 geometric & graph deep learning, epsecially on interpretable, generalizable, and scalable learning methods to advance scientific discovery.
 
 My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chinese surname is 苗(miao), pronounced as 苗/mɪaʊ/. It's also fine to call me Aki.
@@ -30,6 +30,8 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2024.11*: Our paper on KG-based Retrieval-Augmented Generation is released on [arXiv](https://arxiv.org/pdf/2410.20724).
+- *2024.09*: Our paper [GeSS](https://neurips.cc/virtual/2024/poster/97816) on benchmarking OOD performance in geometric deep learning is accepted to NeurIPS 2024 D&B Track.
 - *2024.07*: Our paper on explainable geometric deep learning is released on [arXiv](https://arxiv.org/abs/2407.00849).
 - *2024.06*: Our paper on graph state space model (GSSC) is released on [arXiv](https://arxiv.org/abs/2406.05815).
 - *2024.05*: Our paper [HEPT](https://arxiv.org/abs/2402.12535) is accepted to ICML 2024 and selected for oral presentation! See you in Vienna!
@@ -66,6 +68,23 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 
 # 📝 Publications
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/GSSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[What Can We Learn from State Space Models for Machine Learning on Graphs?](https://arxiv.org/pdf/2406.05815) \\
+Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
+(\*Equal contribution, listed in alphabetical order)\\
+<a href="https://arxiv.org/pdf/2406.05815"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/GSSC"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/HEPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -114,7 +133,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Geometric Deep Learning via Learnable Randomness Injection](https://openreview.net/forum?id=6u7mf9s2A9) \\
-<u><strong>Siqi Miao</strong></u>, Yunan Luo, Mia Liu, Pan Li. **ICLR 2023**\\
+<u><strong>Siqi Miao</strong></u>, Yunan Luo, Mia Liu, Pan Li. **ICLR 2023 <span style="color:red">(Review Score 7, Top 7.1%)</span>**\\
 <a href="https://arxiv.org/abs/2210.16966"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/LRI"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <a href="https://openreview.net/forum?id=6u7mf9s2A9"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR%2723&color=blue"> </a>
@@ -129,7 +148,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box-text' markdown="1">
 
 [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/abs/2201.12987) \\
-<u><strong>Siqi Miao</strong></u>, Mia Liu, Pan Li. **ICML 2022** \\
+<u><strong>Siqi Miao</strong></u>, Mia Liu, Pan Li. **ICML 2022 <span style="color:red">(Spotlight)</span>**\\
 <!-- <a href="https://arxiv.org/abs/2201.12987"><img src="https://img.shields.io/badge/-Paper-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/GSAT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <a href="https://colab.research.google.com/drive/1t0_4BxEJ0XncyYvn_VyEQhxwNMvtSUNx?usp=sharing"><img src="https://img.shields.io/badge/-Colab-grey?logo=googlecolab&logoColor=white" alt="Colab"></a>
@@ -151,17 +170,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/GSSC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[What Can We Learn from State Space Models for Machine Learning on Graphs?](https://arxiv.org/pdf/2406.05815) \\
-Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
-(\*Equal contribution, listed in alphabetical order)\\
-<a href="https://arxiv.org/pdf/2406.05815"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
-<a href="https://github.com/Graph-COM/GSSC"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
-
-</div>
-</div>
 
 - <a href="https://arxiv.org/abs/2407.00849"><img src="https://img.shields.io/badge/-Preprint 2024-grey?logo=&logoColor=white" alt="Paper"></a> [Towards Understanding Sensitive and Decisive Patterns in Explainable AI: A Case Study of Model Interpretation in Geometric Deep Learning](https://arxiv.org/abs/2407.00849), Jiajun Zhu, <u><strong>Siqi Miao</strong></u>, Rex Ying, Pan Li.
 
