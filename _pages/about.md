@@ -31,7 +31,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 
 # 🔥 News
 - *2024.11*: Our paper on KG-based Retrieval-Augmented Generation is released on [arXiv](https://arxiv.org/pdf/2410.20724).
-- *2024.09*: Our paper [GeSS](https://neurips.cc/virtual/2024/poster/97816) on benchmarking OOD performance in geometric deep learning is accepted to NeurIPS 2024 D&B Track.
+- *2024.09*: Our paper [GeSS](https://arxiv.org/abs/2310.08677) on benchmarking OOD performance in geometric deep learning is accepted to NeurIPS 2024 D&B Track.
 - *2024.07*: Our paper on explainable geometric deep learning is released on [arXiv](https://arxiv.org/abs/2407.00849).
 - *2024.06*: Our paper on graph state space model (GSSC) is released on [arXiv](https://arxiv.org/abs/2406.05815).
 - *2024.05*: Our paper [HEPT](https://arxiv.org/abs/2402.12535) is accepted to ICML 2024 and selected for oral presentation! See you in Vienna!
@@ -188,7 +188,7 @@ Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
 
 
 
-- <a href="https://arxiv.org/abs/2310.08677"><img src="https://img.shields.io/badge/-Preprint 2024-grey?logo=&logoColor=white" alt="Paper"></a> [GDL-DS: A Benchmark for Geometric Deep Learning under Distribution Shifts](https://arxiv.org/abs/2310.08677), Deyu Zou\*, Shikun Liu\*, <u><strong>Siqi Miao</strong></u>, Victor Fung, Shiyu Chang, Pan Li.
+- <a href="https://arxiv.org/abs/2310.08677"><img src="https://img.shields.io/badge/-NeurIPS 2024-grey?logo=&logoColor=white" alt="Paper"></a> [GeSS: Benchmarking Geometric Deep Learning under Scientific Applications with Distribution Shifts](https://arxiv.org/abs/2310.08677), Deyu Zou\*, Shikun Liu\*, <u><strong>Siqi Miao</strong></u>, Victor Fung, Shiyu Chang, Pan Li.
 
 - <a href="https://arxiv.org/abs/2312.03823"><img src="https://img.shields.io/badge/-CTD 2023-grey?logo=&logoColor=white" alt="Paper"></a> [High Pileup Particle Tracking with Object Condensation](https://arxiv.org/abs/2312.03823), Kilian Lieret, Gage DeZoort, Devdoot Chatterjee, Jian Park, <u><strong>Siqi Miao</strong></u>, Pan Li.
 
