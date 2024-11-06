@@ -73,7 +73,7 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/SubgraphRAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.20724) \\
+[Simple is Effective: The Roles of Graphs and LLMs in KG-Based Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.20724) \\
 Mufei Li\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
 (\*Equal contribution)\\
 <a href="https://arxiv.org/pdf/2410.20724"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
