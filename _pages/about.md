@@ -70,6 +70,18 @@ My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chi
 # 📝 Publications
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/SubgraphRAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Simple is Effective: The Roles of Graphs and Large Language Models in Knowledge-Graph-Based Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.20724) \\
+Mufei Li\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
+(\*Equal contribution)\\
+<a href="https://arxiv.org/pdf/2410.20724"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/SubgraphRAG"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/GSSC.png' alt="sym" width="100%"></div></div>
@@ -220,8 +232,8 @@ Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
 <a href='https://clustrmaps.com/site/1bgz9'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=a6iAb7ez3Wz6FmyA2Dk7WnttgXxsBmp_weXKt76zhWU&co=2d78ad&ct=ffffff' style="display: none;"/></a>
 
 # 📖 Academic Services
-- Conference Reviewer: ICML, ICLR, NeurIPS, LOG, WWW
-- Journal Reviewer: IEEE Transactions on Signal Processing
+- Conference Reviewer: ICML, ICLR, NeurIPS, AAAI, AISTATS, LOG, WWW
+- Journal Reviewer: TMLR, IEEE Transactions on Signal Processing
 
 # 🎮 Misc
 - *The Legend of Zelda: Breath of the Wild* and *The Witcher 3: Wild Hunt* are the best games ever. *Genshin Impact* is also awesome!
