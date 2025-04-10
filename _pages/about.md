@@ -23,7 +23,6 @@ geometric & graph deep learning, epsecially on interpretable, generalizable, and
 My Chinese given name is 思奇(siqi), pronounced as 思/si/ 奇/tʃiː/. My Chinese surname is 苗(miao), pronounced as 苗/mɪaʊ/. It's also fine to call me Aki.
 
 
-**<span style="color:red">I will be seeking internship opportunities for the summer of 2025. If you know of any exciting openings, please feel free to contact me!</span>**
 
 
 
