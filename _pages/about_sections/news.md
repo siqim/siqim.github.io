@@ -1,11 +1,15 @@
 # 🔥 News
-- *2025.10*: Our paper on [HEPTv2](https://arxiv.org/pdf/2510.07594) is accepted to NeurIPS 2025 Machine Learning and the Physical Sciences Workshop!
-- *2025.10*: Our paper on [Graph-KV](https://arxiv.org/pdf/2506.07334) is accepted to NeurIPS 2025!
-- *2025.06*: Our paper on Weak-to-Strong GraphRAG is released on [arXiv](https://arxiv.org/pdf/2506.22518).
-- *2025.04*: Our paper on the universal graph structural encoder is released on [arXiv](https://arxiv.org/pdf/2504.10917).
-- *2025.03*: Our paper on explainable geometric deep learning is accepted to [Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-00998-9)!
-- *2025.02*: Our paper on [SubgraphRAG](https://arxiv.org/pdf/2410.20724) is accepted to ICLR 2025!
-
+<details open>
+  <summary>News in 2025</summary>
+  <div markdown="1">
+  - *2025.10*: Our paper on [HEPTv2](https://arxiv.org/pdf/2510.07594) is accepted to NeurIPS 2025 Machine Learning and the Physical Sciences Workshop!
+  - *2025.10*: Our paper on [Graph-KV](https://arxiv.org/pdf/2506.07334) is accepted to NeurIPS 2025!
+  - *2025.06*: Our paper on Weak-to-Strong GraphRAG is released on [arXiv](https://arxiv.org/pdf/2506.22518).
+  - *2025.04*: Our paper on the universal graph structural encoder is released on [arXiv](https://arxiv.org/pdf/2504.10917).
+  - *2025.03*: Our paper on explainable geometric deep learning is accepted to [Nature Machine Intelligence](https://www.nature.com/articles/s42256-025-00998-9)!
+  - *2025.02*: Our paper on [SubgraphRAG](https://arxiv.org/pdf/2410.20724) is accepted to ICLR 2025!
+  </div>
+</details>
 
 <details>
   <summary>News in 2024</summary>
