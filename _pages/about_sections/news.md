@@ -8,7 +8,7 @@
 
 
 <details>
-  <summary>Old news in 2024</summary>
+  <summary>News in 2024</summary>
   <div markdown="1">
   - *2024.11*: Our paper on KG-based Retrieval-Augmented Generation is released on [arXiv](https://arxiv.org/pdf/2410.20724).
   - *2024.09*: Our paper [GeSS](https://arxiv.org/abs/2310.08677) on benchmarking OOD performance in geometric deep learning is accepted to NeurIPS 2024 D&B Track.
@@ -23,7 +23,7 @@
 
 
 <details>
-  <summary>Old news in 2023</summary>
+  <summary>News in 2023</summary>
   <div markdown="1">
   - *2023.10*: Our paper on benchmarking OOD performance in geometric deep learning is released on [arXiv](https://arxiv.org/abs/2310.08677).
   - *2023.07*: One paper accepted to CTD'23.
@@ -33,7 +33,7 @@
 
 </details>
 <details>
-  <summary>Old news in 2022</summary>
+  <summary>News in 2022</summary>
 
   <div markdown="1">
   - *2022.11*: Gave a talk at [IML Machine Learning Working Group](https://iml.web.cern.ch/homepage) on [LRI](https://arxiv.org/abs/2210.16966) with slides [here](https://indico.cern.ch/event/1207697/).
