@@ -1,5 +1,13 @@
 # 🔥 News
 <details open>
+  <summary>News in 2026</summary>
+  <div markdown="1">
+  - *2026.05*: I will intern with the LLM Post-Training team at Google Cloud AI in Summer 2026, working with [Dr. Xuehan Xiong][https://scholar.google.com/citations?hl=en&user=vM1SktEAAAAJ&view_op=list_works&sortby=pubdate]!
+  - *2026.04*: Our paper on Graph State Space Model [GSSC](https://ieeexplore.ieee.org/abstract/document/11474332) is accepted to TPAMI!
+  </div>
+</details>
+
+<details>
   <summary>News in 2025</summary>
   <div markdown="1">
   - *2025.10*: Our paper on [HEPTv2](https://arxiv.org/pdf/2510.07594) is accepted to NeurIPS 2025 Machine Learning and the Physical Sciences Workshop!

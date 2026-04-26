@@ -47,14 +47,15 @@ Mufei Li\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **ICLR 2025**\\
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/GSSC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/GSSC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[What Can We Learn from State Space Models for Machine Learning on Graphs?](https://arxiv.org/pdf/2406.05815) \\
-Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
+[How Can State Space Models Enhance Machine Learning on Graphs?](https://ieeexplore.ieee.org/abstract/document/11474332) \\
+Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **TPAMI**\\
 (\*Equal contribution, listed in alphabetical order)\\
-<a href="https://arxiv.org/pdf/2406.05815"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/11474332"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 <a href="https://github.com/Graph-COM/GSSC"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<a href="https://ieeexplore.ieee.org/abstract/document/11474332"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=TPAMI&color=blue"></a>
 <a href="https://github.com/Graph-COM/GSSC"><img src="https://img.shields.io/github/stars/Graph-COM/GSSC?style=social" alt="Github"></a>
 </div>
 </div>
@@ -145,6 +146,8 @@ Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
 </div>
 
 
+- <a href="https://arxiv.org/pdf/2504.10917"><img src="https://img.shields.io/badge/-WWW 2026-grey?logo=&logoColor=white" alt="Paper"></a> [Towards A Universal Graph Structural Encoder](https://arxiv.org/pdf/2504.10917), Jialin Chen, Haolan Zuo, Haoyu Wang, <u><strong>Siqi Miao</strong></u>, Pan Li, Rex Ying.
+
 - <a href="https://arxiv.org/pdf/2510.07594"><img src="https://img.shields.io/badge/-NeurIPS 2025-grey?logo=&logoColor=white" alt="Paper"></a> [Locality-Sensitive Hashing-Based Efficient Point Transformer for Charged Particle Reconstruction](https://arxiv.org/pdf/2510.07594), Shitij Govil, Jack P Rodgers, Yuan-Tang Chou\*, <u><strong>Siqi Miao*</strong></u>, Amit Saha, Advaith Anand, Kilian Lieret, Gage DeZoort, Mia Liu, Javier Duarte, Pan Li, Shih-Chieh Hsu. (\*Corresponding authors)
 
 
@@ -159,7 +162,6 @@ Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **Preprint 2024**\\
 
 
 
-- <a href="https://arxiv.org/pdf/2504.10917"><img src="https://img.shields.io/badge/-Preprint 2025-grey?logo=&logoColor=white" alt="Paper"></a> [Towards A Universal Graph Structural Encoder](https://arxiv.org/pdf/2504.10917), Jialin Chen, Haolan Zuo, Haoyu Wang, <u><strong>Siqi Miao</strong></u>, Pan Li, Rex Ying.
 
 
 
