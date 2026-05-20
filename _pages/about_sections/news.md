@@ -2,7 +2,7 @@
 <details open>
   <summary>News in 2026</summary>
   <div markdown="1">
-  - *2026.05*: I will intern with the LLM Post-Training team at Google Cloud AI in Summer 2026, working with [Dr. Xuehan Xiong](https://scholar.google.com/citations?hl=en&user=vM1SktEAAAAJ&view_op=list_works&sortby=pubdate)!
+  - *2026.05*: In this summer, I will be interning at Google Cloud AI, working on LLM post-training with [Dr. Xuehan Xiong](https://scholar.google.com/citations?hl=en&user=vM1SktEAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Youbao Tang](https://scholar.google.com/citations?user=udx2IT0AAAAJ&hl=en)!
   - *2026.04*: Our paper on Graph State Space Model [GSSC](https://ieeexplore.ieee.org/abstract/document/11474332) is accepted to TPAMI!
   </div>
 </details>
