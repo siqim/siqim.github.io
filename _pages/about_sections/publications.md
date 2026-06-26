@@ -1,15 +1,27 @@
 # 📝 Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/nsl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/HEPTv2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Can LLM Agents Assist Dynamic Network Simulation? A Case Study on Email Networks and Phishing Synthesis](https://openreview.net/pdf?id=pPNtJDpY6q) \\
-<u><strong>Siqi Miao</strong></u>, Ziyang Chen, Yuhong Luo, Hans Hao-Hsun Hsu, Mufei Li, Kaiqing Zhang, Pan Li. **Preprint 2025**\\
-<!-- <a href="https://arxiv.org/pdf/2410.20724"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a> -->
-<!-- <a href="https://github.com/Graph-COM/SubgraphRAG"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a> -->
-<!-- <a href="https://openreview.net/forum?id=JvkuZZ04O7"> <img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICLR%2725&color=blue"></a> -->
-<!-- <a href="https://github.com/Graph-COM/SubgraphRAG"><img src="https://img.shields.io/github/stars/Graph-COM/SubgraphRAG?style=social" alt="Github"></a> -->
+[HEPTv2: End-to-End Efficient Point Transformer for Charged Particle Reconstruction](https://arxiv.org/abs/2606.20437) \\
+<u><strong>Siqi Miao*</strong></u>, Shitij Govil\*, Jack P. Rodgers, Mia Liu, Javier Duarte, Shih-Chieh Hsu, Yuan-Tang Chou, Pan Li. **Preprint 2026**\\
+(\*Equal contribution)\\
+<a href="https://arxiv.org/abs/2606.20437"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/Graph-COM/HEPTv2"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
+<a href="https://github.com/Graph-COM/HEPTv2"><img src="https://img.shields.io/github/stars/Graph-COM/HEPTv2?style=social" alt="Github"></a>
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/nsl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Can LLM Agents Simulate Dynamic Networks? A Case Study on Email Networks with Phishing Synthesis](https://arxiv.org/abs/2605.12507) \\
+<u><strong>Siqi Miao</strong></u>, Ziyang Chen, Yuhong Luo, Hans Hao-Hsun Hsu, Mufei Li, Kaiqing Zhang, Pan Li. **Preprint 2026**\\
+<a href="https://arxiv.org/abs/2605.12507"><img src="https://img.shields.io/badge/-arXiv-grey?logo=gitbook&logoColor=white" alt="Paper"></a>
 </div>
 </div>
 
@@ -145,6 +157,8 @@ Yinan Huang\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **TPAMI**\\
 </div>
 </div>
 
+
+- <a href="https://doi.org/10.21203/rs.3.rs-8575848/v1"><img src="https://img.shields.io/badge/-Preprint 2026-grey?logo=&logoColor=white" alt="Paper"></a> [What Drives GNN Performance in Tissue Dynamics? Insights from Vertex-Model Simulations](https://doi.org/10.21203/rs.3.rs-8575848/v1), Matej Krajnc, Troy Comi, <u><strong>Siqi Miao</strong></u>, Adnan Hafeez, Hadar Serviansky, Pan Li, Tomer Stern.
 
 - <a href="https://arxiv.org/pdf/2504.10917"><img src="https://img.shields.io/badge/-WWW 2026-grey?logo=&logoColor=white" alt="Paper"></a> [Towards A Universal Graph Structural Encoder](https://arxiv.org/pdf/2504.10917), Jialin Chen, Haolan Zuo, Haoyu Wang, <u><strong>Siqi Miao</strong></u>, Pan Li, Rex Ying.
 

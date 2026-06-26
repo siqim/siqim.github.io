@@ -2,6 +2,7 @@
 <details open>
   <summary>News in 2026</summary>
   <div markdown="1">
+  - *2026.06*: Our paper [HEPTv2](https://arxiv.org/abs/2606.20437) is released on arXiv, with code available on [GitHub](https://github.com/Graph-COM/HEPTv2).
   - *2026.05*: In this summer, I will be interning at Google Cloud AI, working on LLM post-training with [Dr. Xuehan Xiong](https://scholar.google.com/citations?hl=en&user=vM1SktEAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Youbao Tang](https://scholar.google.com/citations?user=udx2IT0AAAAJ&hl=en)!
   - *2026.04*: Our paper on Graph State Space Model [GSSC](https://ieeexplore.ieee.org/abstract/document/11474332) is accepted to TPAMI!
   </div>
