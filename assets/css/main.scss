@@ -87,6 +87,30 @@
 
 }
 
+.pub-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+
+    li {
+        margin: .85em 0;
+        line-height: 1.45;
+    }
+}
+
+.pub-venue {
+    display: inline-block;
+    min-width: 7.4em;
+    margin-right: .45em;
+    padding: .08em .5em;
+    background-color: #eef2f7;
+    color: #344054;
+    font-size: .78em;
+    font-weight: 700;
+    text-align: center;
+    white-space: nowrap;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before {
     content: '';
