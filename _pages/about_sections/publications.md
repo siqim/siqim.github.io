@@ -1,7 +1,7 @@
 # 📝 Selected Publications
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/HEPTv2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-image-wrap"><div class="paper-badge">Preprint 2026</div><img src='images/HEPTv2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HEPTv2: End-to-End Efficient Point Transformer for Charged Particle Reconstruction](https://arxiv.org/abs/2606.20437) \\
@@ -14,7 +14,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/SubgraphRAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-image-wrap"><div class="paper-badge">ICLR 2025</div><img src='images/SubgraphRAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Simple is Effective: The Roles of Graphs and LLMs in KG-Based Retrieval-Augmented Generation](https://arxiv.org/pdf/2410.20724) \\
@@ -28,7 +28,7 @@ Mufei Li\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **ICLR 2025**\\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/HEPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-image-wrap"><div class="paper-badge">ICML 2024</div><img src='images/HEPT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LSH-Based Efficient Point Transformer with Applications in High-Energy Physics](https://arxiv.org/abs/2402.12535) \\
@@ -41,7 +41,7 @@ Mufei Li\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **ICLR 2025**\\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/LRI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-image-wrap"><div class="paper-badge">ICLR 2023</div><img src='images/LRI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable Geometric Deep Learning via Learnable Randomness Injection](https://openreview.net/forum?id=6u7mf9s2A9) \\
@@ -54,7 +54,7 @@ Mufei Li\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **ICLR 2025**\\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/GSAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-image-wrap"><div class="paper-badge">ICML 2022</div><img src='images/GSAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Interpretable and Generalizable Graph Learning via Stochastic Attention Mechanism](https://arxiv.org/abs/2201.12987) \\
@@ -63,7 +63,6 @@ Mufei Li\*, <u><strong>Siqi Miao*</strong></u>, Pan Li. **ICLR 2025**\\
 <a href="https://github.com/Graph-COM/GSAT"><img src="https://img.shields.io/badge/-Github-grey?logo=github" alt="Github"></a>
 <a href="https://proceedings.mlr.press/v162/miao22a.html"><img alt="License" src="https://img.shields.io/static/v1?label=Pub&message=ICML%2722&color=blue"></a>
 <a href="https://github.com/Graph-COM/GSAT"><img src="https://img.shields.io/github/stars/Graph-COM/GSAT?style=social" alt="Github"></a>
-
 </div>
 </div>
 
